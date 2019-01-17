@@ -1,0 +1,26 @@
+    1  pwd
+    2  ls
+    3  ls-F
+    4  ls-
+    5  ls-f
+    6  ls- F
+    7  ls f
+    8  ls
+    9  ls -F
+   10  man ls
+   11  ls --help
+   12  ls -a
+   13  ls -l
+   14  ls -lh
+   15  cd Desktop/
+   16  cd Desktop/
+   17  cd
+   18  pwd
+   19  cd Desktop/
+   20  la -a
+   21  ls -a
+   22  ls ./
+   23  ls ../
+   24  cd data-shell
+   25  pwd
+   26  history > ~/Desktop/history.txt
